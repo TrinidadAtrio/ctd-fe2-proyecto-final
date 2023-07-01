@@ -44,6 +44,9 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.25"
+    "@testing-library/react": "^14.0.0",
+    "@types/styled-components": "^5.1.25",
+    "jest": "^27.5.1",
+    "msw": "^1.2.2"
   }
 }
